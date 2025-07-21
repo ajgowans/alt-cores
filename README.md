@@ -21,3 +21,6 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
   ## Additional Information
 
   The Sega Genesis core is the old core that was replaced by the Nuked Mega Drive core.  It is less accurate, but contains some features not present in the new core.  This core         points to a "Genesis" folder from the OSD when selecting roms (not "MegaDrive" like the new core).    
+
+
+  Issues with these cores likely won't be addressed because they are either out of spec of the original hardware or no longer maintained.
