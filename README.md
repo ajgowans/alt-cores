@@ -12,7 +12,9 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
  ## Currently Included Cores
 
  Sega Genesis +
+ 
  Playstation 2x
+ 
  Nintendo 64 2x
 
 
