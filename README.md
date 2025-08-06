@@ -1,6 +1,6 @@
 # The MiSTer Database For Alternative Versions Of Core 
 
-This is a database for the MiSTer project that downloads alternative versions of several cores that contain features not found in the main version.
+This is a database for the MiSTer project that downloads alternative versions of several cores that contain features not found in the main version.  These cores are added to the "Other" folder.
 
 To use it simply copy and paste the below to the bottom of your downloader.ini file (found at: /media/fat/downloader.ini )
 
