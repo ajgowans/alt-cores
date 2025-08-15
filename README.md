@@ -13,18 +13,35 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
 
  Sega Genesis +
  
- Playstation 2x
+ Playstation Turbo
  
- Nintendo 64 2x
+ Nintendo 64 Turbo
 
+ NeoGeo Turbo
 
   ## Additional Information
-
-  The Sega Genesis core is the old core that was replaced by the Nuked Mega Drive core.  It is less accurate, but contains some features not present in the new core.  This core         points to a "Genesis" folder from the OSD when selecting roms (not "MegaDrive" like the new core).    
   
-
-  The N64 "80mhz" core, and The PSX 2X core, are overclocked compared to the offical cores in Main, and original hardware.  This can lead to improved FPS in some games, but also can lower stability in others and can introduce bugs.  If you are using these then anticipate you may come across issues.
-
-
-
-  Issues with these cores likely won't be addressed because they are either out of spec of the original hardware or no longer maintained.
+  Treat this database as an "Isle of Misfit Toys." These cores have either been deprecated in favor of more accurate versions, or are overclocked in order to mitigate slowdown in games on their respective systems. They are not under active development and are being made available only because folks (in some instances) prefer them.
+  
+  ### Core Details
+  
+ #### Genesis Core
+ - Has turbo, adaptive composite blend, and other features not present on the (more accurate) Nuked Mega Drive Core
+ - Updated to display on modern IO boards
+ - Will run pirate games like Gulf War that don't run on the Nuked Core
+ 
+ #### Playstation Turbo Core
+ - Runs the CPU at twice the speed
+ - Can cause instability in games
+ - Will not make you better at Tekken
+ 
+ #### Nintendo 64 Turbo Core
+ - Overclocks the CPU by 25%(ish)
+ - Can ause instability in games
+ - Will not bring back your childhood
+ 
+ #### NeoGeo Turbo Core
+ - Runs the CPU at twice the speed (Turbo needs to be enabled in the OSD)
+ - Updated to display on modern IO boards
+ - Breaks almost everything but Metal Slug
+ - Metal Slug runs great on it tho.
