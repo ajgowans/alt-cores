@@ -22,13 +22,13 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
 
   ## Additional Information
   
-  Treat this database as an "Isle of Misfit Toys." These cores have either been deprecated in favor of more accurate versions, or are cores that run overclocked in order to mitigate slowdown in games on that system. They are not under active development and are being made available only because folks (in some instances) prefer them.
+  Treat this database as an "Isle of Misfit Toys." These cores have either been deprecated in favor of more accurate versions, or are overclocked in order to mitigate slowdown in games on their respective systems. They are not under active development and are being made available only because folks (in some instances) prefer them.
   
   ### Core Details
   
  #### Genesis Core
  - Has turbo, adaptive composite blend, and other features not present on the (more accurate) Nuked Mega Drive Core
- - Updated to run on modern IO boards
+ - Updated to display on modern IO boards
  - Will run pirate games like Gulf War that don't run on the Nuked Core
  
  #### Playstation Turbo Core
@@ -43,5 +43,6 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
  
  #### NeoGeo Turbo Core
  - Runs the CPU at twice the speed (Turbo needs to be enabled in the OSD)
+ - Updated to display on modern IO boards
  - Breaks almost everything but Metal Slug
  - Metal Slug runs great on it tho.
