@@ -17,8 +17,6 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
  
  Nintendo 64 Turbo
 
- NeoGeo Turbo
-
   ## Additional Information
   
   Treat this database as an "Isle of Misfit Toys." These cores have either been deprecated in favor of more accurate versions, or are overclocked in order to mitigate slowdown in games on their respective systems. They are not under active development and are being made available only because folks (in some instances) prefer them.
@@ -39,9 +37,3 @@ db_url = https://raw.githubusercontent.com/ajgowans/alt-cores/db/db.json.zip
  - Overclocks the CPU by 25%(ish)
  - Can ause instability in games
  - Will not bring back your childhood
- 
- #### NeoGeo Turbo Core
- - Runs the CPU at twice the speed (Turbo needs to be enabled in the OSD)
- - Updated to display on modern IO boards
- - Breaks almost everything but Metal Slug
- - Metal Slug runs great on it tho.
